@@ -27,7 +27,7 @@ sudo -u postgres psql -c "CREATE EXTENSION postgis; CREATE EXTENSION postgis_top
 ```
 ##Installing Requirements
 ```
-pip install -r re requirements.txt
+pip install -r requirements.txt
 ```
 ##Sync and Running application
 ```
