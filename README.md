@@ -1,4 +1,5 @@
 **Geodjango Series 1**
+
 This is a geodjango tutorial project(Agricom) developed under the Geodjango Tutorial Series at <a href="https://www.youtube.com/playlist?list=PL7amXK4vKqATa_KrfQ3_tEF_ywAgAqWeJ"> This Playlist</a> . 
 It uses the Geodjango module in Django to include the mapping aspect of the project. This is the entire project covered in all the episodes. 
 
